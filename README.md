@@ -33,7 +33,6 @@ I am currently enrolled on a 12-week intensive Data Technician program at JustIT
                     </a></p>
 
 
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="Power bi" /></a>
 
 
 
